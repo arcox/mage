@@ -192,7 +192,7 @@
             <!-- TODO: migrate log4j configs to logback xml (see properties to xml translation http://logback.qos.ch/translator/ -->
             <groupId>org.slf4j</groupId>
             <artifactId>slf4j-log4j12</artifactId>
-            <version>1.7.32</version>
+            <version>1.7.33</version>
         </dependency>
 
         <dependency>
